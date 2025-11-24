@@ -1,3 +1,12 @@
+编程语言
+Golang
+Go语言
+Rust
+Python
+
+Langchain
+Langraph
+
 DeepSeek
 梁文锋
 
@@ -43,6 +52,11 @@ sora
 阿里
 千问
 
+质谱
+GLM
+
+Minimax
+
 claude
 Anthropic
 
@@ -78,19 +92,3 @@ AI Agent
 雅鲁藏布江
 
 新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
-
-编程语言
-Golang
-Go语言
-Rust
-Python
-
-Langchain
-Langraph
